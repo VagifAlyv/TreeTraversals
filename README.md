@@ -1,0 +1,2 @@
+This project involves traversing a Binary Search Tree (BST) using different traversal methods, specifically Preorder, Postorder, and Level Order. Instead of simply displaying the data during the traversal, these traversals have been defined in 
+the form of iterators. This gives the client more flexibility, allowing them to control the timing of each visit to the nodes and to perform additional operations on the data retrieved from each node.
